@@ -1,7 +1,7 @@
 # 🐍 Jogo da Cobrinha Carioca 🐍
 
 <div align="center">
-  <img src="snake.png" alt="Screenshot do Jogo da Cobrinha Carioca" width="500">
+  <img src="./assets/snake.png" alt="Screenshot do Jogo da Cobrinha Carioca" width="500">
   <br>
   <em>Um jogo da cobrinha com um toque de brasilidade!</em>
 </div>
