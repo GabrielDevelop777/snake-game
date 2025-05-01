@@ -1,7 +1,7 @@
 # 🐍 Jogo da Cobrinha Carioca 🐍
 
 <div align="center">
-  <img src="screenshot.png" alt="Screenshot do Jogo da Cobrinha Carioca" width="500">
+  <img src="./assets/snake.png" alt="Screenshot do Jogo da Cobrinha Carioca" width="500">
   <br>
   <em>Um jogo da cobrinha com um toque de brasilidade!</em>
 </div>
@@ -30,7 +30,7 @@ A "Cobrinha Carioca" se destaca pelas suas cores vibrantes, design visual atraen
 
 ## 🚀 Demonstração
 
-[Clique aqui para jogar agora!](https://seusite.com/jogo-da-cobrinha-carioca) <!-- Substitua pelo seu link quando hospedado -->
+[Clique aqui para jogar agora!](https://snake-game-brazil.netlify.app/) <!-- Substitua pelo seu link quando hospedado -->
 
 ## 🎮 Como Jogar
 
@@ -85,10 +85,10 @@ Você pode facilmente personalizar diversos aspectos do jogo:
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-usuario)
-- Email: seu-email@exemplo.com
+**Gabriel**
+- GitHub: https://github.com/GabrielDevelop777
+- LinkedIn: https://www.linkedin.com/in/gabriel-alexandre-silva/
+- Email: gabrielalexok@gmail.com
 
 ## 📄 Licença
 
@@ -96,8 +96,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 
 ## 🙏 Agradecimentos
 
-- Inspirado pelo clássico jogo Snake
-- Agradecimentos especiais a [mencione qualquer pessoa ou recurso que ajudou]
+- Inspirado pelo clássico jogo Snake.
+- Agradecimentos especiais a ChatGPT.
 
 ---
 
