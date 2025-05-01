@@ -86,8 +86,8 @@ Você pode facilmente personalizar diversos aspectos do jogo:
 ## 👨‍💻 Autor
 
 **Gabriel**
-- GitHub: (https://github.com/GabrielDevelop777)
-- LinkedIn: (https://www.linkedin.com/in/gabriel-alexandre-silva/)
+- GitHub: https://github.com/GabrielDevelop777
+- LinkedIn: https://www.linkedin.com/in/gabriel-alexandre-silva/
 - Email: gabrielalexok@gmail.com
 
 ## 📄 Licença
